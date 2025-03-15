@@ -1308,6 +1308,10 @@ nav {
     }
 }
 
+    .token-overview{
+        flex-direction: column;
+    }
+
 @media (max-width: 480px) {
     .pie-chart {
         width: 180px;
